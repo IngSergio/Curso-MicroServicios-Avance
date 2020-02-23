@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import mx.spm.servicio.productos.entity.Producto;
+import mx.spm.servicio.commons.entity.Producto;
 import mx.spm.servicio.productos.repository.ProductoRepository;
 import mx.spm.servicio.productos.service.ProductoService;
 

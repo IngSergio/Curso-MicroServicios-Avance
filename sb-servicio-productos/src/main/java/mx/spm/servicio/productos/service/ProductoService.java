@@ -2,7 +2,7 @@ package mx.spm.servicio.productos.service;
 
 import java.util.List;
 
-import mx.spm.servicio.productos.entity.Producto;
+import mx.spm.servicio.commons.entity.Producto;
 
 public interface ProductoService {
 	

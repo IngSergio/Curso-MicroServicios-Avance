@@ -3,6 +3,7 @@ package mx.spm.servicio.items.entity;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import mx.spm.servicio.commons.entity.Producto;
 
 @Data
 @AllArgsConstructor

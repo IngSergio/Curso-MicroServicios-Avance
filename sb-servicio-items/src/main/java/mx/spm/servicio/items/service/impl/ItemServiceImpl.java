@@ -13,8 +13,8 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
+import mx.spm.servicio.commons.entity.Producto;
 import mx.spm.servicio.items.entity.Item;
-import mx.spm.servicio.items.entity.Producto;
 import mx.spm.servicio.items.service.ItemService;
 
 @Service("serviceRestTemplate")

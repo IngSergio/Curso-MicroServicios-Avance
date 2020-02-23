@@ -12,7 +12,8 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import mx.spm.servicio.items.entity.Producto;
+import mx.spm.servicio.commons.entity.Producto;
+
 
 @FeignClient(name = "servicio-productos")
 @Primary

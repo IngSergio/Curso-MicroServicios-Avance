@@ -2,8 +2,8 @@ package mx.spm.servicio.items.service;
 
 import java.util.List;
 
+import mx.spm.servicio.commons.entity.Producto;
 import mx.spm.servicio.items.entity.Item;
-import mx.spm.servicio.items.entity.Producto;
 
 public interface ItemService {
 

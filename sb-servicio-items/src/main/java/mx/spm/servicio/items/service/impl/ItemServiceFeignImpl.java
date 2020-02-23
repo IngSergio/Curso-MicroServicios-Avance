@@ -7,9 +7,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Service;
 
+import mx.spm.servicio.commons.entity.Producto;
 import mx.spm.servicio.items.cliente.ProductoClienteRest;
 import mx.spm.servicio.items.entity.Item;
-import mx.spm.servicio.items.entity.Producto;
 import mx.spm.servicio.items.service.ItemService;
 
 @Service("serviceFeign")
